@@ -1,6 +1,6 @@
 # [Hack the Journey Brasil #5] Projeto Soptravel 
 
-![Soptravel](https://github.com/Soptravel/Soptravel/blob/develop/Doc/testedigiagro.gif)
+![hacka](https://user-images.githubusercontent.com/19413241/202952638-79e248e3-16e0-4d12-9375-e5e518359961.gif)
 
 <h1 align="center">  Hack the Journey Brasil  </h1>
 <p align="center">Projeto desenvolvido durante o  <a href="https://developers.amadeus.com/blog/hack-the-journey-brazil-2022">Hack the Journey Brasil 2022</a>. </p>
@@ -29,11 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  ## :leaves: Screenshot
  
+<img src="https://user-images.githubusercontent.com/19413241/202952482-9b6c058d-bcf5-40a6-b4c4-191b06f4c442.png" width="250" />   <img src="https://user-images.githubusercontent.com/19413241/202952498-be18ef6e-1ffe-4b22-87f5-4b9a9032186d.png" width="250" />
 
 ## :seedling: Esboço Prototipo 
 <img src="https://user-images.githubusercontent.com/19413241/202943904-d27df4a3-5411-4229-bae1-b16057d01208.png" width="250" />
 
-<img src="https://user-images.githubusercontent.com/48294395/202945484-4b8d24fa-f7a1-42cc-a0cf-24f8a2efdc35.png" width="250" /><img src="https://user-images.githubusercontent.com/48294395/202945411-9c185c79-b40b-4f63-9d53-105d22a88443.png" width="250" />
+<img src="https://user-images.githubusercontent.com/48294395/202945484-4b8d24fa-f7a1-42cc-a0cf-24f8a2efdc35.png" width="250" />  <img src="https://user-images.githubusercontent.com/48294395/202945411-9c185c79-b40b-4f63-9d53-105d22a88443.png" width="250" />
 
 <img src="https://user-images.githubusercontent.com/48294395/202945153-a2837940-7681-4ae7-9c6b-a54b51aaa0ad.png" width="250" />
 <img src="https://user-images.githubusercontent.com/48294395/202945344-9a893d2c-b66a-4c4c-b42c-1d5d802a72dd.png" width="250" />
