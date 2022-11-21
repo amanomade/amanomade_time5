@@ -8,7 +8,7 @@
 
 ## :four_leaf_clover: Sobre o projeto
 
-O <strong>Soptravel</strong> descrição
+O <strong>Soptravel</strong> Uma aplicação (APP) que mostra o score de segurança diversas localidades, com base em dados obtidos na API da Amadeus, sites oficiais e feedbacks das pessoas usuárias em sua versão beta, com o objetivo de tornar a vida do nômade digital mais segura através da informação e com a projeção de implementar mais features para a experiência do usuário, como o uso de Realidade Aumentada.
 
 
 #### ["Video falando sobre"](https://www.youtube.com/watch?v=E0KejcvAdxs)
