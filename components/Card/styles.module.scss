@@ -1,0 +1,41 @@
+.card {
+  border: 2px solid #E7E7E7;
+  display: flex;
+  border-radius: 1.23rem;
+  padding: 3rem 2rem;
+  flex-direction: column;
+  gap: 1.6rem;
+  .title {
+    font-size: 1.4rem;
+    font-weight: 700;
+  }
+  .content {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  .group {
+    display: flex;
+    gap: 1rem;
+    &.spaceBetween {
+      justify-content: space-between;
+    }
+  }
+  &.alert {
+    text-align: center;
+    &_green {
+      padding-top: 1rem;
+      background-color: green;
+      
+      .icon {
+        align-self: flex-end;
+      }
+      .title {
+        font-size: 1.6rem;
+        font-weight: 500;
+      }
+      .content {
+        font-size: 3.2rem;
+      }
+    }
+  }
+}

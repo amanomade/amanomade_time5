@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: white;
+  justify-content: space-between;
+  padding: 2.5rem;
+  gap: 4rem;
+  span {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .navBar {
+    display: flex;
+    justify-content: space-between;
+  }
+}
