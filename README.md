@@ -28,13 +28,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
  ## :leaves: Screenshot
- 
- ![image](https://user-images.githubusercontent.com/48294395/202945484-4b8d24fa-f7a1-42cc-a0cf-24f8a2efdc35.png)
- ![image](https://user-images.githubusercontent.com/48294395/202945411-9c185c79-b40b-4f63-9d53-105d22a88443.png)
- 
  ### Pagina desenvolvida
  ![image](https://user-images.githubusercontent.com/48294395/202945153-a2837940-7681-4ae7-9c6b-a54b51aaa0ad.png)
  ![image](https://user-images.githubusercontent.com/48294395/202945344-9a893d2c-b66a-4c4c-b42c-1d5d802a72dd.png)
+ ### Pagina em desenvolvimento
+ ![image](https://user-images.githubusercontent.com/48294395/202945484-4b8d24fa-f7a1-42cc-a0cf-24f8a2efdc35.png)
+ ![image](https://user-images.githubusercontent.com/48294395/202945411-9c185c79-b40b-4f63-9d53-105d22a88443.png)
+ 
+ 
 
 ## :seedling: Esboço Prototipo 
 <img src="https://user-images.githubusercontent.com/19413241/202943904-d27df4a3-5411-4229-bae1-b16057d01208.png" width="250" />
