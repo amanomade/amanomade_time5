@@ -36,4 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## :seedling: Esboço Prototipo 
-<img src="https://github.com/Soptravel/Soptravel/blob/develop/Doc/prototipo.png" width="900" />
+<img src="https://user-images.githubusercontent.com/19413241/202943904-d27df4a3-5411-4229-bae1-b16057d01208.png" width="250" />
+
+
