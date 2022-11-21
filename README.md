@@ -12,7 +12,7 @@ O <strong>Soptravel</strong> descrição
 
 
 #### ["Video falando sobre"](https://www.youtube.com/watch?v=E0KejcvAdxs)
-#### ["Soptravel Hospedagem"](https://digiagro.herokuapp.com/)
+#### ["Soptravel Nômades"](https://www.nomade.cf/states)
 
 ## :rose: Funcionalidades
 Este projeto tem o como alvejar as seguintes funcionalidades
