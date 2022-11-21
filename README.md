@@ -24,17 +24,8 @@ Este projeto tem o como alvejar as seguintes funcionalidades
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com/)
-- [Css]()
-- [html]()
-- [Docker]()
-- [Cloud]()
-- [heroku]()
-- [Container]()
-- [SPA]()
-- [PWA]()
-- [Multiplataforma]()
-- [GitFlow]()
-- [Test]()
+- [next](https://nextjs.org/docs)
+
 
  ## :leaves: Screenshot
 <img src="https://github.com/Soptravel/Soptravel/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2017.06.24.png" width="900" />
